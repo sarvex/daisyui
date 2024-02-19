@@ -73,7 +73,7 @@
   "devDependencies": {
     "autoprefixer": "^10",
     "postcss-cli": "10.1.0",
-    "postcss-import": "15.1.0",
+    "postcss-import": "16.0.1",
     "prejss-cli": "0.3.3",
     "prettier": "^3.0.3",
     "prettier-plugin-svelte": "^3.0.3",
